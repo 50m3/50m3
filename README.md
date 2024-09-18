@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @50m3
 - 👀 I’m Just having fun tinkering and experimenting, just a side hobby.
+- Right now giving the LFS a shot.
 
 
 <!---
